@@ -1,0 +1,63 @@
+workflow_name1:
+    algorithm: 'x'
+    summary: 'criticality'
+    samples:
+    - 'data1.csv'
+    - 'data2.csv'
+    weights: 'weights.csv'
+
+workflow_name2:
+    algorithm: 'x'
+    summary: 'd'
+    samples:
+    - 'data1.csv'
+    - 'data2.csv'
+    weights: 'weights.csv'
+
+workflow_name3:
+    algorithm: 'x'
+    summary: 'criticality'
+    samples:
+    - 'samples1.csv'
+    - 'samples2.csv'
+    weights: 'weights.csv'
+
+workflow_name4:
+    algorithm: 'x'
+    summary: 'd'
+    samples:
+    - 'samples1.csv'
+    - 'samples2.csv'
+    weights: 'weights.csv'
+
+workflow_name5:
+    algorithm: 'y'
+    summary: 'criticality'
+    samples:
+    - 'data1.csv'
+    - 'data2.csv'
+    weights: 'weights.csv'
+
+workflow_name6:
+    algorithm: 'y'
+    summary: 'd'
+    samples:
+    - 'data1.csv'
+    - 'data2.csv'
+    weights: 'weights.csv'
+
+workflow_name7:
+    algorithm: 'y'
+    summary: 'criticality'
+    samples:
+    - 'samples1.csv'
+    - 'samples2.csv'
+    weights: 'weights.csv'
+    
+workflow_name8:
+    algorithm: 'y'
+    summary: 'd'
+    samples:
+    - 'samples1.csv'
+    - 'samples2.csv'
+    weights: 'weights.csv'
